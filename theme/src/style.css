@@ -150,11 +150,7 @@ a {
 }
 
 .download-link{
-    text-align:right;
-    cursor: pointer;
-}
-.social-links-print{
-    display: none;
+	text-align:right;
 }
 
 /* ==========================================================================
